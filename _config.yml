@@ -1,0 +1,14 @@
+layout_spectrum: 0.0632601366378367
+typography_spectrum: 0.5044180145487189
+color:
+  brandStrength: 0.5259217168204486
+  lightness: 0.2856868067756295
+  saturation: 0.8658235806506127
+  rhythmicContrast: 0.7087724492885172
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: planetunicorn
