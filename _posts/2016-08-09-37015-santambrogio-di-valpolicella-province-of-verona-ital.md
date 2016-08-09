@@ -12,8 +12,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.google.ie/maps/place/37015+Sant'Ambrogio+di+Valpolicella+Province+of+Verona,+Italy/@45.5188638,10.8011842,13z/data=!3m1!4b1!4m5!3m4!1s0x4781e5699f20cc07:0xaa4aca7e9d868e3!8m2!3d45.5217023!4d10.8379339
 title: ''
-datePublished: '2016-08-09T13:08:25.233Z'
-dateModified: '2016-08-09T13:06:42.808Z'
+datePublished: '2016-08-09T13:10:17.733Z'
+dateModified: '2016-08-09T13:08:19.352Z'
 via: {}
 starred: false
 sourcePath: >-
