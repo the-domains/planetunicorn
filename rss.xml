@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Planet Unicorn]]></title>
+        <description><![CDATA[Planet Unicorn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 13:08:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[37015 Sant'Ambrogio di Valpolicella Province of Verona, Italy]]></title>
+            <link>https://www.google.ie/maps/place/37015+Sant&apos;Ambrogio+di+Valpolicella+Province+of+Verona,+Italy/@45.5188638,10.8011842,13z/data=!3m1!4b1!4m5!3m4!1s0x4781e5699f20cc07:0xaa4aca7e9d868e3!8m2!3d45.5217023!4d10.8379339</link>
+            <guid isPermaLink="false">61c2d7cd-e893-43b8-ac05-47f4dc9d0506</guid>
+            <pubDate>Tue, 09 Aug 2016 13:08:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
