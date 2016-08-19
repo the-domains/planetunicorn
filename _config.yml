@@ -1,4 +1,3 @@
-layout_spectrum: 0.8169391411356628
 typography_spectrum: 0.26631516171619296
 color:
   brandStrength: 0.5259217168204486
@@ -11,4 +10,7 @@ color:
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
+layout_spectrum: 0.8169391411356628
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/025c9887-5d45-4522-929a-1255c03656da.png
 name: planetunicorn
